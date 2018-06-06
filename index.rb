@@ -6,9 +6,21 @@ ingredients = [
     ["mayo", "mustard", "tabasco"]
 ]
 
+order = [
+  ["sourdough","salami","cheddar","mustard"]
+  ]
+
 def sandwich_request(ingredients, order) 
   # your code here!
+  order.each do |order_ingredients|
+    puts order_ingredients
+  order.each do |ingredients|
+    puts ingredients
+  end
+ end
 end
+
+sandwhich_request
 
 # example city_info hash
 cities = {

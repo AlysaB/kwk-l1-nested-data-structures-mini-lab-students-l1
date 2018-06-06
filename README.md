@@ -1,4 +1,4 @@
-## Nesting Habits
+in## Nesting Habits
 <img src="https://s3.amazonaws.com/after-school-assets/nesting.jpg"> 
 Arrays inside of arrays! Hashes inside of hashes! Arrays inside of hashes! Hashes inside of arrays inside of hashes! Oh my!
 
